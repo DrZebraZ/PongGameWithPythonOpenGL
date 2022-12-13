@@ -11,3 +11,7 @@ UP and Down for player 2
 the score shows in the name of the page
 
 3 points to win
+
+
+
+PyGame PyOpenGL OpenGL OpenGL-accelerate Numpy Python Pong Game
